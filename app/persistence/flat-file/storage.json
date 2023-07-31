@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Post 1",
+      "headline": "Novak Djokovic loses to Carlos Alcaraz",
+      "body": "A game within a match to win a Championship: Carlos Alcaraz won it and Novak Djokovic didn’t and so it is that the 20-year-old world No.1 is the new Wimbledon champion. Alcaraz won 1-6, 7-6(6), 6-1, 3-6, 6-4.",
+      "created_at": "2023-02-11",
+      "tags": ["Sports"]
+    },
+    {
+      "id": 2,
+      "title": "Post 2",
+      "headline": "Twitter vs Threads",
+      "body": "Threads, although the most successful one, is not the only Twitter-like app on the market. Since it has not attempted to confuse customers or tried to make them believe that they are using Twitter, the case against the app is not very strong\n",
+      "created_at": "2023-02-10",
+      "tags": ["Business", "Tech"]
+    },
+    {
+      "id": 3,
+      "title": "Post 3",
+      "headline": "Bank of England likely to raise interest rates to new high",
+      "body": "The Bank of England (BoE) is likely to raise interest rates by 0.25% to 5.25% when the monetary policy committee (MPC) meets on Thursday.",
+      "created_at": "2023-02-09",
+      "tags": ["Economy"]
+    },
+    {
+      "id": 4,
+      "title": "Post 4",
+      "headline": "Exodus from Canary Wharf leaves it at its emptiest for 18 years",
+      "body": "Canary Wharf is at its emptiest since 2005, according to new analysis, compounding fears over the future of the financial district as big names continue to abandon their offices.",
+      "created_at": "2023-02-09",
+      "tags": ["Economy"]
+    }
+  ],
+  "comments":     [
+    {
+      "id": 1,
+      "created_at": "2023-02-13",
+      "author": "Test User A",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    {
+      "id": 2,
+      "created_at": "2023-02-12",
+      "author": "Test User B",
+      "body": "Etiam tincidunt fermentum felis, quis luctus lectus suscipit nec."
+    }
+  ]
+}

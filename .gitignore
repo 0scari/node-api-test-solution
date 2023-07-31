@@ -1,4 +1,2 @@
-../node_modules/
 .idea/
-app/coverage/
-app/__tests__/samples/
+node_modules/
